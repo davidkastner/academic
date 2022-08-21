@@ -11,9 +11,9 @@ title                    : "David W. Kastner"
 title_separator          : "-"
 name                     : &name "David Kastner"
 description              : &description "personal description"
-url                      : "https://www.mit.edu/~kastner" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 
+url                      : 'https://kastner.io' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : 'davidkastner/davidkastner'
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,10 +29,10 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : 
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : 
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -99,7 +99,7 @@ author:
   github           : "davidkastner"
   google_plus      :
   keybase          :
-  instagram        :  "davidkastner_"
+  instagram        : "davidwkastner"
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "davidwkastner/"
