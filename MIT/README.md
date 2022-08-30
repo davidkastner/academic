@@ -15,3 +15,4 @@ Installations only have to happen once.
 ## Building HTMl
 If you would like to generate HTML to host somewhere else,
 copy the contents of _site.
+bundle exec jekyll build

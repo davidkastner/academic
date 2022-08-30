@@ -1,6 +1,6 @@
 ---
 title: Therapeutic Peptide Modelling
-excerpt: "During my undergraduate at Brigham Young University, my studied novel therapeutic peptides containing non-standard amino acids such as dehydroamino acids. <img src='/image/peptide.png' style='width:100%;margin-top:15px'>"
+excerpt: "During my undergraduate at Brigham Young University, my studied novel therapeutic peptides containing non-standard amino acids such as dehydroamino acids. <img src='https://www.mit.edu/~kastner/image/peptide.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
 <strong>Keywords:</strong> Cancer, QM/MM, NOESY, Gaussian 09, AMBER<br/>
